@@ -1,6 +1,0 @@
-'''
-@Gokul
-23-sept-2023
-'''
-
-Teraform is a great feature for cloud automation
